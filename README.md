@@ -25,6 +25,39 @@ This project involves analyzing data related to medicine products, including the
 - Most used ingredient
 - Which brand has most greater than 4 point review medicine?
 
+## Tools and Languages used
+
+Scraped the data with the help of Python BeautifulSoup librariy.
+Used Pandas for the data framing part.
+Analysis was done with the help of Pandas and Excel.
+Insights were generated from the above analysis.
+Excel is used for dashboard and data visualization.
+
+## Dashboard
+
+![Screenshot (1625)](https://github.com/Aayush-Chourasiya/CapstoneProject/assets/133970565/fd2afd13-e83d-4b14-8ac4-e01c058a5c5b)
+
+
+## Insights
+
+Availability of medicines are higher in skin followed by eye and digestion field.
+
+Lowest number of medicines in tooth, cardiac and diabetes field.
+
+Highest maximum price of medicine is present in dental category.
+
+lowest minimum price of medicine is present in dental category.
+
+For Dental products, the most used brand is Bakson's Homeopathy having average rating of 2.9
+
+For Diabetes products, the most used brand is Dr Reckeweg & Co having average rating of 4.7.
+
+Medicines of SBL Pvt Ltd have the highest percentage of products having rating greater than 4.
+
+Market capture of SBL Pvt Ltd is comparatively better than others.
+
+Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in a Tier 2 city.
+
 
 
 ##  Quick Start
@@ -34,26 +67,3 @@ This project involves analyzing data related to medicine products, including the
 - Analysis was done with the help of Pandas and Excel.
 - Insights were generated from the above analysis.
 - Excel is used for dashboard and data visualization.
-
-
-
-
-# Insights
-
-- Availability of  medicines are higher in skin followed by eye and digestion field.
-
-- Lowest number of medicines in tooth, cardiac and diabetes field.
-- Highest maximum price of medicine is present in dental category.
-- lowest minimum price of medicine is present in dental category.
-- For Dental products, the most used brand is Bakson's Homeopathy
-having average rating of 2.9
-- For Diabetes products, the most used brand is Dr Reckeweg & Co
-having average rating of 4.7.
-
-- Medicines of SBL Pvt Ltd have the highest percentage of products having rating greater than 4.
-
-- Market capture of SBL Pvt Ltd is comparatively better than others.
-- Approximately 9-10 lakh Indian Rupees is required to open a homeopathic medicine store in a Tier 2 city.
-
-
-
