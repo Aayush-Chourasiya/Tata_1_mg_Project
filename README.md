@@ -12,6 +12,17 @@ This project involves analyzing data related to medicine products, including the
 | **Other Excel file** | This will provide the raw files after web scraping |
 | **Project Prestation** | This file have the dashboards and insights of the project. |
 
+## Description
+- Performed web scraping and conducted examination & analysis of
+homeopathic medicine data from Tata 1mg.
+- Computed the projected initial investment required for launching the
+store.
+- Created an interactive Excel-based dashboard to assist the client in
+optimal medicine selection for their store.
+- Tech stack - Python libraries Numpy, Pandas BeautifulSoup, Seaborn
+and Matplotlib, PowerBI, Excel, and SQL
+
+
 ##   Analysis
 
 - Number of medicine available of different benefit area.
