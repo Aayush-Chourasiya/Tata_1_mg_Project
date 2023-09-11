@@ -15,6 +15,11 @@ This project involves analyzing data related to medicine products, including the
 ## Description
 - Performed web scraping and conducted examination & analysis of
 homeopathic medicine data from Tata 1mg.
+![Screenshot (1725)](https://github.com/Aayush-Chourasiya/Tata_1_mg_Project/assets/133970565/e05e1e85-46e4-4b0c-a8a7-d181d1fe1cbc)
+![Screenshot (1726)](https://github.com/Aayush-Chourasiya/Tata_1_mg_Project/assets/133970565/a7687a42-46af-4eaf-b10b-744bc6143210)
+
+
+
 - Computed the projected initial investment required for launching the
 store.
 - Created an interactive Excel-based dashboard to assist the client in
